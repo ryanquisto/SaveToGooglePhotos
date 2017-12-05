@@ -13,5 +13,13 @@
 	[
 		"http://photos.google.com/",
 		"contextMenus"
-	]
+	],
+
+	"background": 
+	{
+		"scripts": 
+		[
+			"ClickMenu.js"
+		]
+	}
 }
