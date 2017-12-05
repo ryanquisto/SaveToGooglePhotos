@@ -6,11 +6,12 @@
 	"description": "Adds option to save a photo to Google Photos when it is right-clicked on.",
 	"icons": 
 	{
-		
+		"16": "MenuImage.png"
 	},
 
 	"permissions": 
 	[
-		"http://photos.google.com/"
+		"http://photos.google.com/",
+		"contextMenus"
 	]
 }
